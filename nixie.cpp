@@ -29,6 +29,5 @@ void Nixie::test() {
     digitalWrite(pin, LOW);
     delay(350);
     digitalWrite(pin, HIGH);
-    
   }
 }
